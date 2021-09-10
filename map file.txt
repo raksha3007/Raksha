@@ -1,0 +1,17 @@
+<html>  
+<head>  
+<title>google maps</title>  
+</head>  
+<body>
+<h1>contact</h1>
+<p>
+<strong>address</strong>
+<br>bangalore
+</p> 
+<p>
+   <strong>phone</strong>
+   <br>3330-3456
+ </p>
+ <embed src="https://goo.gl/maps/v3cgkvTBy9PhZFTr8" height="300" width="500"></embed>
+</body>  
+</ht
