@@ -1,1 +1,1 @@
-# session 1
+# training sessions
